@@ -111,6 +111,52 @@ I'm currently executing a structured **90-day QA Automation journey**, working t
 
 <div align="center">
 
+### 🌐 Personal Portfolio Website
+**[ Live · Frontend Project ]**
+
+</div>
+
+> A clean, dark-themed professional portfolio designed for recruiter impression — showcasing projects, skills, and contact information, deployed on Vercel with CI/CD via GitHub.
+
+| Detail | Info |
+|--------|------|
+| **Type** | Personal Project |
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Deployment** | Vercel (auto-deploy via GitHub push) |
+| **Features** | Responsive layout, Web3Forms contact, project showcase, resume download |
+| **Status** | ✅ Live |
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shafiq-ahamed04.vercel.app)
+[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04/Portfolio-Website)
+
+---
+
+<div align="center">
+
+### 🤖 Career Copilot AI — AI-Powered Career Operating System
+**[ In Progress · Full Stack Project ]**
+
+</div>
+
+> An intelligent career platform that unifies resume analysis, semantic job matching, skill gap detection, AI learning roadmaps, interview prep, and application tracking into a single dashboard.
+
+| Detail | Info |
+|--------|------|
+| **Type** | Full Stack SaaS Project |
+| **Frontend** | React, Vite |
+| **Backend** | FastAPI (Python), JWT Auth |
+| **AI** | Sentence Transformers, Gemini API |
+| **Database** | PostgreSQL, Redis |
+| **DevOps** | Docker, GitHub Actions, AWS (planned) |
+| **Features** | Resume parsing, job matching, skill gap analysis, roadmap generator, application tracker |
+| **Status** | 🚧 In Progress |
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04)
+
+---
+
+<div align="center">
+
 ### 🧪 QA Automation Journey — 90-Day Roadmap
 **[ In Progress · Self-Directed Learning ]**
 
