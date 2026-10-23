@@ -17,24 +17,11 @@
 
 ---
 
-### 🧪 Active Automated Test Suite Execution
+<div align="center">
 
-```text
-==================================== pytest session starts ====================================
-platform win32 -- Python 3.11.8, pytest-9.1.1, selenium-4.46.0
-rootdir: https://github.com/shafiq-ahamed04
-collected 7 test items
+<img src="https://raw.githubusercontent.com/shafiq-ahamed04/shafiq-ahamed04/main/assets/pytest-terminal-run.svg" alt="Active Automated Pytest Suite Execution" width="100%"/>
 
-tests/test_engineer.py::test_fresher_credentials .......... PASSED [ 14%]
-tests/test_skills.py::test_selenium_locators_waits ..... PASSED [ 28%]
-tests/test_projects.py::test_100_automated_tests ...... PASSED [ 42%]
-tests/test_testrun.py::test_screen_recording_video .... PASSED [ 57%]
-tests/test_journey.py::test_discipline_milestones ..... PASSED [ 71%]
-tests/test_github.py::test_qa_journey_telemetry ....... PASSED [ 85%]
-tests/test_contact.py::test_recruiter_pipeline ........ PASSED [100%]
-
-==================================== 7 passed in 1.28s ====================================
-```
+</div>
 
 ---
 
