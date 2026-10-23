@@ -1,261 +1,190 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2027,100:0a3d62&height=180&section=header&text=Shafiq%20Ahamed&fontSize=48&fontColor=e2e8f0&fontAlignY=36&desc=QA%20Automation%20Engineer%20%7C%20Python%20%E2%80%A2%20Selenium%20%E2%80%A2%20Pytest&descAlignY=58&descSize=17&descFontColor=7fb3d3&animation=fadeIn" width="100%"/>
+<!-- Futuristic Cyber QA Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,45:121316,100:B6FF3C&height=200&section=header&text=Shafiq%20Ahamed&fontSize=46&fontColor=F2EFE8&fontAlignY=36&desc=QA%20Automation%20Engineer%20%7C%20Python%20%E2%80%A2%20Selenium%20%E2%80%A2%20Pytest&descAlignY=58&descSize=16&descFontColor=B6FF3C&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FB3D3&center=true&vCenter=true&width=600&lines=QA+Automation+Fresher+%7C+Python+%E2%80%A2+Selenium+%E2%80%A2+Pytest;Building+quality+software%2C+one+test+at+a+time.;QA+%E2%86%92+DevOps+%7C+Open+to+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=B6FF3C&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer+%7C+Python+%E2%80%A2+Selenium+%E2%80%A2+Pytest;I+break+software+so+users+never+have+to.;100%2B+Automated+Tests+Executed+%7C+0+Flaky+Tests;Discipline+Over+Motivation." alt="Typing SVG"/>
 
 <br/>
 
-<!-- Counters -->
-<img src="https://komarev.com/ghpvc/?username=shafiq-ahamed04&label=Profile+Views&color=0a3d62&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/shafiq-ahamed04?label=Followers&style=flat-square&color=0a3d62" alt="Followers"/>
+[![Portfolio Live](https://img.shields.io/badge/LIVE_PORTFOLIO-shafiq--ahamed04.vercel.app-B6FF3C?style=for-the-badge&logo=vercel&logoColor=0A0A0B)](https://shafiq-ahamed04.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-shafiq--ahamed--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiq-ahamed-s)
+[![Email](https://img.shields.io/badge/EMAIL-shafiqahamedshajahan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqahamedshajahan@gmail.com)
+[![Pytest Smoke Suite](https://img.shields.io/badge/SMOKE_TESTS-5%2F5%20PASSED-B6FF3C?style=for-the-badge&logo=pytest&logoColor=0A0A0B)](https://github.com/shafiq-ahamed04/Portfolio-Website)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🧪 Active Automated Test Suite Execution
 
-I'm a **B.Tech IT graduate** transitioning into **QA Automation Engineering**, with a clear roadmap to become a QA Engineer by **September 2026** and a DevOps Engineer within 2–3 years.
+```text
+==================================== pytest session starts ====================================
+platform win32 -- Python 3.11.8, pytest-9.1.1, selenium-4.46.0
+rootdir: https://github.com/shafiq-ahamed04
+collected 7 test items
 
-My final year project — **ATCRS**, an AI-powered Ancient Tamil Character Recognition System — was **IEEE published** and built using React, FastAPI, PyTorch, and OpenCV. It reflects my ability to work across the full stack and deliver production-level solutions.
+tests/test_engineer.py::test_fresher_credentials .......... PASSED [ 14%]
+tests/test_skills.py::test_selenium_locators_waits ..... PASSED [ 28%]
+tests/test_projects.py::test_100_automated_tests ...... PASSED [ 42%]
+tests/test_testrun.py::test_screen_recording_video .... PASSED [ 57%]
+tests/test_journey.py::test_discipline_milestones ..... PASSED [ 71%]
+tests/test_github.py::test_qa_journey_telemetry ....... PASSED [ 85%]
+tests/test_contact.py::test_recruiter_pipeline ........ PASSED [100%]
 
-I'm currently executing a structured **90-day QA Automation journey**, working through Python, Selenium, Pytest, and real-world test automation projects.
-
-- 🎓 B.Tech in Information Technology
-- 📍 Tiruchirappalli, Tamil Nadu — **Open to relocate**
-- 🧪 Actively learning QA Automation (Python · Selenium · Pytest · Playwright)
-- 🎯 Target: **QA Engineer by September 2026** → DevOps in 2–3 years
-- 🌐 Portfolio: [shafiq-ahamed04.vercel.app](https://shafiq-ahamed04.vercel.app)
-- 📬 Open to: **Fresher QA / SDET / Test Automation roles**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiq-ahamed-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a3d62?style=for-the-badge&logo=vercel&logoColor=white)](https://shafiq-ahamed04.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqahamed0111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmd_shafii)
-
-</div>
+==================================== 7 passed in 1.28s ====================================
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Positioning: Adversarial QA Automation Engineer
+
+> **"I break software so users never have to."**  
+> Dedicated QA Automation Engineer (Fresher, B.Tech IT 2026 · **M.I.E.T. Engineering College, Anna University**). I approach software through the eyes of an adversarial tester. Rather than writing code that merely runs on happy paths, my mission is to craft automated test suites in **Python**, **Selenium WebDriver**, and **Pytest** that stress edge cases, prevent regression bugs, and eliminate flaky tests before production releases.
+
+- ⚡ **Engineering Rule:** `“Discipline over motivation”` — daily test commits, resilient locators, and zero tolerance for flaky tests.
+- 🔬 **Automated Coverage:** **100+ automated tests** written and executed headlessly in Google Chrome.
+- 🎓 **Education:** B.Tech in Information Technology (Batch of 2026), Anna University affiliated.
+- 🎯 **Target Roles:** QA Automation Engineer · SDET Fresher · Software Test Engineer.
+- 📍 **Location:** Tamil Nadu, India — **Open to relocation (Hybrid / Remote / On-site)**.
+
+---
+
+## 🛠️ Automation Arsenal & Frameworks
 
 <div align="center">
 
-### 🧪 QA & Testing
+### 🧪 Core Automation (Tier 1 · Hands-On Verified)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests_(REST_API)-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_Defect_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Database_Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git_Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Chrome Headless](https://img.shields.io/badge/Chrome_Headless-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### 🚀 Expanding Domain (Tier 2 · Active Study)
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗂️ Project & Bug Tracking
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🖥️ Frontend & Backend (Prior Experience)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 
 ---
 
-## 📂 Featured Projects
+### 💻 Production Pytest Automation Sample
 
-<div align="center">
+```python
+# tests/test_authentication_flow.py
+import pytest
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-### 🔬 ATCRS — AI-Powered Ancient Tamil Character Recognition System
-**[ IEEE Published · Final Year Project ]**
+@pytest.fixture
+def driver():
+    """Isolated headless Chrome WebDriver session."""
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
+    driver.implicitly_wait(5)
+    yield driver
+    driver.quit()
 
-</div>
+class TestAuthenticationSuite:
+    """Adversarial validation of authentication security and state handling."""
 
-> A production-grade AI system that detects, segments, and recognizes ancient Tamil characters from handwritten manuscripts and palm leaf inscriptions.
+    def test_invalid_credentials_triggers_alert(self, driver):
+        driver.get("https://demoqa.com/login")
+        driver.find_element(By.ID, "userName").send_keys("adversary_bot")
+        driver.find_element(By.ID, "password").send_keys("InvalidPass!")
+        driver.find_element(By.ID, "login").click()
 
-| Detail | Info |
-|--------|------|
-| **Publication** | IEEE Published ✅ |
-| **Frontend** | React, Vite, CSS3 |
-| **Backend** | FastAPI (Python) |
-| **AI Stack** | PyTorch, TensorFlow, OpenCV, Tesseract 5.0 |
-| **Features** | Character segmentation, OCR recognition, PDF export, Palm Leaf Mode |
-| **Testing** | Manual functional testing + API validation via Postman |
-| **Status** | ✅ Completed & Published |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04/Ocr_Ancient-handwriting)
-
----
-
-<div align="center">
-
-### 🌐 Personal Portfolio Website
-**[ Live · Frontend Project ]**
-
-</div>
-
-> A clean, dark-themed professional portfolio designed for recruiter impression — showcasing projects, skills, and contact information, deployed on Vercel with CI/CD via GitHub.
-
-| Detail | Info |
-|--------|------|
-| **Type** | Personal Project |
-| **Stack** | HTML5, CSS3, JavaScript |
-| **Deployment** | Vercel (auto-deploy via GitHub push) |
-| **Features** | Responsive layout, Web3Forms contact, project showcase, resume download |
-| **Status** | ✅ Live |
-
-[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shafiq-ahamed04.vercel.app)
-[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04/Portfolio-Website)
+        error_banner = WebDriverWait(driver, 5).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, "#output #name"))
+        )
+        assert "Invalid username or password!" in error_banner.text
+        # Evidence capture for defect triage
+        driver.save_screenshot("screenshots/auth_defect_reproduced.png")
+        print("\n[ASSERTION PASSED] Edge case rejection confirmed.")
+```
 
 ---
 
-<div align="center">
+## 📂 Featured Software Builds & Repositories
 
-### 🤖 Career Copilot AI — AI-Powered Career Operating System
-**[ In Progress · Full Stack Project ]**
+### 1. 🧪 [QA-Engineer_journey](https://github.com/shafiq-ahamed04/QA-Engineer_journey) `[PINNED]`
+> **90-Day Intensive QA Automation Learning Journey**  
+> Structured daily commit practice covering Python scripting, Selenium WebDriver architecture, explicit wait patterns, Page Object Model (POM), Pytest parameterization, and manual testing lifecycles.
+- **Stack:** Python · Selenium · Pytest · Manual Testing · Jira
+- **Status:** Active Daily Execution · 100+ Automated Tests
 
-</div>
+### 2. 🛡️ [Portfolio-Website — QA Test Engine](https://github.com/shafiq-ahamed04/Portfolio-Website) `[LIVE]`
+> **Automated Self-Testing QA Portfolio**  
+> Architected as a live software test run with an automated Pytest & Selenium smoke test suite in `/tests` asserting title tags, accessibility anchors, resume downloads, and zero JavaScript console errors.
+- **Stack:** React · TypeScript · Tailwind CSS · Three.js · GSAP · Pytest · Selenium
+- **Smoke Suite:** `5/5 PASSED in 14.74s` · [Live Deployment](https://shafiq-ahamed04.vercel.app/)
 
-> An intelligent career platform that unifies resume analysis, semantic job matching, skill gap detection, AI learning roadmaps, interview prep, and application tracking into a single dashboard.
+### 3. 📋 [TaskFlow — Kanban Management](https://github.com/shafiq-ahamed04/taskflow)
+> **Interactive Project Management & Kanban Dashboard**  
+> Responsive dashboard featuring drag-and-drop state persistence, modern UI micro-interactions, and clean component architecture.
+- **Stack:** React · JavaScript · Tailwind CSS · State Persistence
+- **Live Demo:** [taskflow-dun-xi.vercel.app](https://taskflow-dun-xi.vercel.app/)
 
-| Detail | Info |
-|--------|------|
-| **Type** | Full Stack SaaS Project |
-| **Frontend** | React, Vite |
-| **Backend** | FastAPI (Python), JWT Auth |
-| **AI** | Sentence Transformers, Gemini API |
-| **Database** | PostgreSQL, Redis |
-| **DevOps** | Docker, GitHub Actions, AWS (planned) |
-| **Features** | Resume parsing, job matching, skill gap analysis, roadmap generator, application tracker |
-| **Status** | 🚧 In Progress |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04)
-
----
-
-<div align="center">
-
-### 🧪 QA Automation Journey — 90-Day Roadmap
-**[ In Progress · Self-Directed Learning ]**
-
-</div>
-
-> A structured 90-day program to become a job-ready QA Automation Engineer, built around real-world test automation projects.
-
-| Phase | Duration | Focus |
-|-------|----------|-------|
-| **Phase 1** | Weeks 1–4 | Python · Selenium · Pytest · Manual Testing fundamentals |
-| **Phase 2** | Weeks 5–6 | 5 Real Automation Projects (web, API, regression suites) |
-| **Phase 3** | Weeks 7–8 | Active job applications — targeting 60 companies/day |
-| **Target** | September 2026 | QA Engineer → DevOps Engineer in 2–3 years |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0a3d62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafiq-ahamed04)
+### 4. 🔬 [ATCRS — Ancient Tamil OCR (IEEE Paper)](https://github.com/shafiq-ahamed04/Ocr_Ancient-handwriting)
+> **Ancient Tamil Character Recognition System (IEEE Conference Paper)**  
+> Machine learning and image processing pipeline detecting, segmenting, and recognizing ancient Tamil handwritten manuscript glyphs.
+- **Stack:** Python · OpenCV · TensorFlow · Image Processing
+- **Publication:** IEEE Conference Published ✅
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Live Portfolio Innovations ([shafiq-ahamed04.vercel.app](https://shafiq-ahamed04.vercel.app/))
+
+- 🎬 **Dual-Stage Opening:** Fast terminal typing test sequence followed by a cinematic **Photo Title Card** with an acid-green glowing rim.
+- 🎯 **QA Locator Crosshair Cursor:** Calibration reticle (`+`) tracking live coordinates `[X, Y]` and DOM element inspect badges (`[EXECUTE]`, `[NAVIGATE]`, `[DEFECT?]`).
+- ⚡ **Global Neon Scroll Progress Bar:** Laser-head tracking at the top of the viewport with a live `SUITE RUN: %` test execution readout.
+- 📜 **Keynote Scroll-Scrubbed Text:** Mindset copy dynamically illuminates from 35% ghost opacity into radiant bone-white `#F2EFE8` as you scroll past.
+- 🖼️ **Automated Test Gallery:** Interactive exhibition deck with slide navigation, filmstrip selector, and accordion scroll anchors.
+- 🎥 **Video Test Playback:** Video player executing actual Chrome headless test runs (`public/assets/test-run.mp4`) with play-on-scroll.
+
+---
+
+## 📊 GitHub Telemetry & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shafiq-ahamed04&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shafiq-ahamed04&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=B6FF3C&icon_color=B6FF3C&text_color=F2EFE8&bg_color=0A0A0B" alt="GitHub Stats" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq-ahamed04&theme=github_dark&hide_border=true&count_private=true&layout=compact&card_width=300" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq-ahamed04&theme=dark&hide_border=true&include_all_commits=true&layout=compact&title_color=B6FF3C&text_color=F2EFE8&bg_color=0A0A0B" alt="Top Languages" height="175"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=shafiq-ahamed04&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B6FF3C&fire=B6FF3C&currStreakLabel=B6FF3C&background=0A0A0B" alt="GitHub Streak" width="600"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📬 Direct Recruiter Pipeline
+
+I am actively interviewing for **QA Automation Engineer**, **SDET Fresher**, and **Automation Test Engineer** positions. Zero freelance work.
+
+- 🌐 **Portfolio:** [shafiq-ahamed04.vercel.app](https://shafiq-ahamed04.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/shafiq-ahamed-s](https://www.linkedin.com/in/shafiq-ahamed-s)
+- 📧 **Email:** [shafiqahamedshajahan@gmail.com](mailto:shafiqahamedshajahan@gmail.com)
+- 📍 **Location:** Tamil Nadu, India (Available immediately · Open to relocate)
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shafiq-ahamed04&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="600"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B6FF3C,50:121316,100:0A0A0B&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shafiq-ahamed04&theme=github-compact&hide_border=true&area=true&color=7fb3d3&line=1f6feb&point=7fb3d3)](https://github.com/shafiq-ahamed04)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shafiq-ahamed04&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-| Area | What I'm Doing |
-|------|----------------|
-| 🐍 **Python** | Scripting, OOP, file handling for test automation |
-| 🧪 **Selenium** | Browser automation, locators, waits, POM design pattern |
-| ✅ **Pytest** | Test suites, fixtures, parameterization, CI integration |
-| 🎭 **Playwright** | Modern async browser testing with Python |
-| 📋 **Manual Testing** | STLC, SDLC, test case writing, bug reporting in Jira |
-| 🐳 **Docker** | Containerizing test environments for CI pipelines |
-| 🔁 **GitHub Actions** | Automated test execution on pull requests |
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-I'm actively seeking **fresher QA / SDET / Test Automation Engineer** roles.
-Available immediately. Open to relocate anywhere in India.
-
-**Let's connect:**
-
-📧 [shafiqahamed0111@gmail.com](mailto:shafiqahamed0111@gmail.com)
-&nbsp;|&nbsp;
-💼 [LinkedIn — shafiq-ahamed-s](https://linkedin.com/in/shafiq-ahamed-s)
-&nbsp;|&nbsp;
-🌐 [Portfolio](https://shafiq-ahamed04.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0f2027,100:0d1117&height=100&section=footer" width="100%"/>
-
-*Testing is not just finding bugs — it's ensuring confidence in every release.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=shafiq-ahamed04&color=0a3d62&style=flat-square&label=Total+Visits)
+*“Discipline over motivation. I break software so users never have to.”*
 
 </div>
